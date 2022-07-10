@@ -9,5 +9,4 @@ lines changed are 7.4 in gradle wrapper properties to 4.9
 
 inside build.gradle the first function
 
-i believe that there was 1 more change, but i dont remember
 i got my help from a legacy forge discord server, code is :nCm3cM5d7W
